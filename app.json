@@ -1,0 +1,15 @@
+{
+  "name": "mmo-enginer",
+  "description": "",
+  "scripts": {
+    "postdeploy": "http://gamecreators.herokuapp.com/setup"
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
